@@ -14,4 +14,4 @@ Data Question(s)
 What are the most important factors for an owner when deciding whether or not to renew his or her lease with the current city’s stadium?
 What are the most important factors for an owner when determining which city to relocate his or her franchise to?
 
-<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzQzNDdhOTktYTAwMy00NGY4LTk1ZTAtNjAzZjNlNzE4MTFlIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/view?r=eyJrIjoiMzQzNDdhOTktYTAwMy00NGY4LTk1ZTAtNjAzZjNlNzE4MTFlIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
